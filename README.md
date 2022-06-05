@@ -1,2 +1,5 @@
-# MidTermProject1
+# MidTermProject
+Procurement Management System Using Java
+# IDE Used
+NetBeans
  
